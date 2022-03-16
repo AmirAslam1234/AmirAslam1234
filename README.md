@@ -7,7 +7,8 @@ creating elegant solutions in the least amount of
 time and passionate about writing code & solving problems.
 <br>
 <br>
-[![Amir Aslam GitHub stats]](https://github-readme-stats.vercel.app/api?username=AmirAslam1234) (https://github.com/AmirAslam1234/github-readme-stats)
+[![Amir Aslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAslam1234)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
