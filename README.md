@@ -1,3 +1,4 @@
+👋 Hello, I'm Muhammad Asim!
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AmirAslam1234&show_icons=true&theme=light">
 
 <div id="header" align="center">
